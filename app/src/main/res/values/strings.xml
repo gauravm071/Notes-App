@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Notes App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title">Title</string>
+    <string name="this_is_default_note">This is default note</string>
+    <string name="notes">NOTES</string>
+    <string name="signInDesc">Sign In to the app using your google account</string>
+    <string name="please_add_some_note_here">Please Add Some Notes Here...</string>
+    <string name="add_title_here">Add Title here</string>
+    <string name="write_your_note_here">Write your note here</string>
+    <string name="note_added">Note Added</string>
+    <string name="note_deleted">Note Deleted</string>
+</resources>
